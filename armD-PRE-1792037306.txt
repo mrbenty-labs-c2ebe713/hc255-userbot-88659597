@@ -1,0 +1,2 @@
+ARM D pre-deletion write baseline. app=4845890 inst=159400287 t=1792037306
+This commit proves the installation token could WRITE *before* the App was deleted.
